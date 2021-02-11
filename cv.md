@@ -1,5 +1,5 @@
 1.  Viktar Hubarevich
-2.  +375 29 195 76 24 (A1)
+2.  +375 29 195 76 24 (A1), +375 29 319 19 05 (A1)
 3.  My task is to become a financially independent person. I think programming can help with this. If we talk about myself, then I can confidently say that I am a purposeful person. I noticed that throughout my life I always give myself a challenge, whether I can or not, and thanks to this quality, I move forward. Therefore, with my studies, I am always on you. After university, I moved to live in Minsk, where I work as a chief specialist in the Department for Supervision of Safe Operations in Industry of the Republic of Belarus. And I decided that it was time to move on and my choice was on programming.
 4.  I am a student at TeachMeSkills programming school. I am studying at the Frond End developer.
 5.  const years = prompt('How old are you?', ''); <br>
