@@ -1,0 +1,35 @@
+1.  Viktar Hubarevich
+2.  +375 29 195 76 24 (A1), +375 29 319 19 05 (A1)
+3.  My task is to become a financially independent person. I think programming can help with this. If we talk about myself, then I can confidently say that I am a purposeful person. I noticed that throughout my life I always give myself a challenge, whether I can or not, and thanks to this quality, I move forward. Therefore, with my studies, I am always on you. After university, I moved to live in Minsk, where I work as a chief specialist in the Department for Supervision of Safe Operations in Industry of the Republic of Belarus. And I decided that it was time to move on and my choice was on programming.
+4.  I am a student at TeachMeSkills programming school. I am studying at the Frond End developer.
+5.  const years = prompt('How old are you?', ''); <br>
+    if (years == '' || years == null) { <br>
+    alert('Error. Enter how old are you.'); <br>
+    console.log('Error. Enter how old are you.'); <br>
+    } else { <br>
+    alert('Congratulation to you full ' + years + ' years!'); <br>
+    console.log('Congratulation to you full ' + years + ' years!'); <br>
+
+        if (years >= 18) {
+            alert('You are an adult!');
+            console.log('You are an adult!');
+        } else {
+            alert('You are underage!');
+            console.log('You are underage!');
+        };
+
+    };
+
+6.  I am a student at TeachMeSkills programming school (FrondEnd Developer). <br>
+    https://github.com/ViktorGubarevich/TMS-Figma-Land.git <br>
+    https://github.com/ViktorGubarevich/TMS-Axit.git <br>
+    https://github.com/FE38-Front-End/ViktorGubarevich.git <br>
+7.  2009-2014 Belarusian State University of Transport (Mechanical engineer), Diploma of Higher Education; <br>
+    2013-2014 Belarusian State University of Transport (Logist-economist), Retraining Diploma at the Higher Education level; <br>
+    2014-2016 Belarusian State University of Transport (Master of Engineering Science), Master's degree; <br>
+    2018-2019 Streamline (Elementary Level (CEFR A2)), English (Sertification № 6-1819-28889) <br>
+    https://drive.google.com/file/d/1jVQqkW2NlDNm8HmFK5JI_IN_EJyhNKyO/view?usp=sharing <br>
+    2019-2020 Streamline (Pre-Intermediate Level (CEFR A2+)), English (Sertification № 2-1920-32323) <br>
+    https://drive.google.com/file/d/1PWMlFl1UByTb0R-Bax90rxWCLi_wcZaZ/view?usp=sharing <br>
+    2020-2021 TeachMeSkills (Front End Developer), Front End. <br>
+8.  Pre-Intermediate (A2).
